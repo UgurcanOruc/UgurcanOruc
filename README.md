@@ -1,6 +1,2 @@
-- 👋 Hi, I’m Uğur
-- 👀 I love writing code.
-- 🌱 I am working as Full-Stack Developer on .NET MVC with PostgreSQL and MsSQL.
-- 🌱 And I'm learning React right now.
-- 📫 Anyone can reach me from "ugurcan-oruc@hotmail.com" or "https://www.linkedin.com/in/ugurcanoruc/"
-
+![image](https://user-images.githubusercontent.com/78012982/211601595-35852989-8c4d-47f5-8c3e-592f9edf89da.png)
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
